@@ -8,5 +8,5 @@
     <root level="INFO">
         <appender-ref ref="stdout"/>
     </root>
-    <logger name="com.baizhi.dao" level="DEBUG"/>
+    <logger name="com.zzu.dao" level="DEBUG"/>
 </configuration>
